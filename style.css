@@ -85,7 +85,7 @@ header{
     z-index: 1000;
     height:100%;
     width:35rem;
-    background:none;
+    background:lightblue;
     display: flex;
     align-items: center;
     justify-content: center;
