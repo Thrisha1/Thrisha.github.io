@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600&display=swap');
 
 :root{
@@ -451,7 +451,6 @@ header .navbar ul li a:hover{
     display: none;
 }
 
-=======
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600&display=swap');
 
 :root{
@@ -539,7 +538,7 @@ header{
     z-index: 1000;
     height:100%;
     width:35rem;
-    background:none;
+    background:lightblue;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -977,4 +976,3 @@ header .navbar ul li a:hover{
     }
 
  }
->>>>>>> 5e19f714f8876bdb9ef7493651859c5864556d33
